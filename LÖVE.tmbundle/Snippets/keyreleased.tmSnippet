@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>function keyreleased()
+	<string>function love.keyreleased(key)
 	$0
 end</string>
 	<key>name</key>
 	<string>keyreleased</string>
 	<key>tabTrigger</key>
-	<string>keyreleased</string>
+	<string>keyr</string>
 	<key>uuid</key>
 	<string>A6DA93BA-5428-48C1-B4C8-344825EF27C9</string>
 </dict>

@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>function joystickpressed()
+	<string>function love.joystickpressed(joystick)
 	$0
 end</string>
 	<key>name</key>
 	<string>joystickpressed</string>
 	<key>tabTrigger</key>
-	<string>joystickpressed</string>
+	<string>joyp</string>
 	<key>uuid</key>
 	<string>E97769E5-38AF-49A5-9E5F-5CA4D01DF7D8</string>
 </dict>

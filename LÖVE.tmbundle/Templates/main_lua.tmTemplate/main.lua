@@ -2,40 +2,31 @@
 -- Author: ${TM_FULLNAME}
 -- Date: ${TM_DATE}
 
--- Initialization
-function load()
+function love.load()
 
 end
 
--- Logic
-function update(dt)
+function love.update(dt)
 
 end
 
--- Input
-function keypressed()
+function love.draw()
+	
+end
+
+function love.keypressed(key)
 
 end
 
-function keyreleased()
+function love.keyreleased(key)
 
 end
 
-function mousepressed()
+function love.mousepressed(x, y, button)
 
 end
 
-function mousereleased()
+function love.mousereleased(x, y, button)
 
 end
 
-function joystickpressed()
-end
-
-function joystickreleased()
-end
-
--- Scene Drawing
-function draw()
-
-end

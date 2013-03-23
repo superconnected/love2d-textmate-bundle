@@ -179,6 +179,8 @@
 			</array>
 		</dict>
 	</dict>
+	<key>keyEquivalent</key>
+	<string>^~L</string>
 	<key>scopeName</key>
 	<string>source.lua</string>
 	<key>uuid</key>

@@ -9,7 +9,7 @@ end</string>
 	<key>name</key>
 	<string>function</string>
 	<key>tabTrigger</key>
-	<string>function</string>
+	<string>fun</string>
 	<key>uuid</key>
 	<string>37485B94-9CF0-4C07-B90D-0390EDDCD72C</string>
 </dict>

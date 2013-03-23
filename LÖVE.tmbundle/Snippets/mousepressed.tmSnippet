@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>function mousepressed()
+	<string>function love.mousepressed(x, y, button)
 	$0
 end</string>
 	<key>name</key>
 	<string>mousepressed</string>
 	<key>tabTrigger</key>
-	<string>mousepressed</string>
+	<string>mousep</string>
 	<key>uuid</key>
 	<string>A3FA3B57-1841-4593-86A4-99C6F0F3AB67</string>
 </dict>
